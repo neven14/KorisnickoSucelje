@@ -1,0 +1,15 @@
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\bin\Debug\AplikacijaBiblioteka.exe.config
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\bin\Debug\AplikacijaBiblioteka.exe
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\bin\Debug\AplikacijaBiblioteka.pdb
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.Form1.resources
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.PosudbaKnjige.resources
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.StanjeKnjiga.resources
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.StanjeKnjigaSkladiste.resources
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.UpisKorisnika.resources
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.exe
+C:\Users\ucenik\source\repos\Neven-main\AplikacijaBiblioteka\AplikacijaBiblioteka\obj\Debug\AplikacijaBiblioteka.pdb
